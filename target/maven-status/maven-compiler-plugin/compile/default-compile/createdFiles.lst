@@ -1,0 +1,11 @@
+com\ictkosovo\service\IToDoItemService.class
+com\ictkosovo\util\AttributeNames.class
+com\ictkosovo\util\Mappings.class
+com\ictkosovo\config\WebAppInitializer.class
+HelloMaven.class
+com\ictkosovo\model\ToDoData.class
+com\ictkosovo\config\WebConfig.class
+com\ictkosovo\service\ToDoItemService.class
+com\ictkosovo\controller\ToDoController.class
+com\ictkosovo\util\ViewNames.class
+com\ictkosovo\model\ToDoItem.class
